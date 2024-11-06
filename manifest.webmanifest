@@ -2,18 +2,18 @@
   "name": "The Print Garage",
   "icons": [
     {
-      "src": "https://cdn.prod.website-files.com/67030cb0eac8338230216ecd/670326acecab7508a558df63_icon-192.png",
+      "src": "https://cdn.shopify.com/s/files/1/0746/7768/2449/files/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://cdn.prod.website-files.com/67030cb0eac8338230216ecd/670326adfbe9381f3e899e57_icon-mask.png",
+      "src": "https://cdn.shopify.com/s/files/1/0746/7768/2449/files/icon-mask.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
     },
     {
-      "src": "https://cdn.prod.website-files.com/67030cb0eac8338230216ecd/670326ac704e6cb92b7a83dd_icon-512.png",
+      "src": "https://cdn.shopify.com/s/files/1/0746/7768/2449/files/icon-512.png?v=1730896540",
       "type": "image/png",
       "sizes": "512x512"
     }
